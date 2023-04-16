@@ -1,6 +1,5 @@
 # Kado
--Flower code from: https://idin23.github.io/ibrah.github.io/mdusmanansari/pen/BamepLe
-
+-Flower code from: https://idin23.github.io/ibrah.github.io
 
 # Description
 Flower code tiktok trend 
